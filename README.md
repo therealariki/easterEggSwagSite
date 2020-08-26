@@ -1,7 +1,7 @@
 # CollaborativeSwagNetwork
 
 Easter egg site from uni business project
-This is an MVP for the presentation
+This is an MVP for the presentation.
 
                 quu..__
                  $$$b  `---.__
