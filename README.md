@@ -1,7 +1,7 @@
 # CollaborativeSwagNetwork
 
-Mock collaborative website for CP2405.
-Site is laced with easter eggs.
+Easter egg site from uni business project
+This is an MVP for the presentation
 
                 quu..__
                  $$$b  `---.__
